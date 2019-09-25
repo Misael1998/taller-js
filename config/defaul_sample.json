@@ -1,0 +1,4 @@
+{
+  "mongoURI": "MongoURI Aqui",
+  "jwtSecreto": "tallerjs"
+}
